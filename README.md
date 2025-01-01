@@ -4,10 +4,10 @@
 This project analyzes the **Seoul Bike Sharing System (Ddareungi)** to identify key factors influencing hourly bike rental demand. Using a comprehensive dataset of 8,760 records, the analysis explores weather conditions, temporal patterns, and operational variables to develop predictive models for demand forecasting. The findings aim to optimize resource allocation and improve user satisfaction.
 
 The project demonstrates expertise in:
-- *Data preprocessing:* Cleaning, transformation, encoding, and feature engineering.
-- *Exploratory Data Analysis (EDA):* Visualization of trends and correlations.
-- *Statistical modeling:* Hypothesis testing and regression analysis.
-- *Machine learning:* Predictive modeling for demand forecasting.
+- **Data preprocessing:** Cleaning, transformation, encoding, and feature engineering.
+- **Exploratory Data Analysis (EDA):** Visualization of trends and correlations.
+- **Statistical modeling:** Hypothesis testing and regression analysis.
+- **Machine learning:** Predictive modeling for demand forecasting.
 
 ---
 
